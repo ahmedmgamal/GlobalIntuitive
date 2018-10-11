@@ -9,6 +9,8 @@ This repo contains sample code for integrating with Experian Data Quality's Glob
 
 Check out the [demo](https://www.edq.com/uk/products/address-validation/#interactive-demo) on our website.
 
+[![](https://codescene.io/projects/3466/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3466/jobs/latest-successful/results)
+
 ## Usage
 
 #### Prerequisites
