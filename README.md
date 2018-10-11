@@ -3,6 +3,8 @@
 
 [![](https://codescene.io/projects/3466/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3466/jobs/latest-successful/results)
 
+[![](https://codescene.io/projects/3466/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3466/jobs/latest-successful/results)
+
 
 [![GitHub version](https://badge.fury.io/gh/ExperianDataQuality%2FGlobalIntuitive.svg)](http://badge.fury.io/gh/ExperianDataQuality%2FGlobalIntuitive)
 [![Dependency Status](https://david-dm.org/ExperianDataQuality/GlobalIntuitive.svg)](https://david-dm.org/ExperianDataQuality/GlobalIntuitive)
