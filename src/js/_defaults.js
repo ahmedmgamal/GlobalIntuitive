@@ -16,6 +16,9 @@ ContactDataServices.defaults = {
 		"country"
 	]
 };
+alert("any crap");
+kjdfgb = 3;
+hhh++;
 
 // Create configuration by merging custom and default options
 ContactDataServices.mergeDefaultOptions = function(customOptions){
