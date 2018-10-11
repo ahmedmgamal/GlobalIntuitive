@@ -1,5 +1,9 @@
 # Global Intuitive
 
+
+[![](https://codescene.io/projects/3466/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3466/jobs/latest-successful/results)
+
+
 [![GitHub version](https://badge.fury.io/gh/ExperianDataQuality%2FGlobalIntuitive.svg)](http://badge.fury.io/gh/ExperianDataQuality%2FGlobalIntuitive)
 [![Dependency Status](https://david-dm.org/ExperianDataQuality/GlobalIntuitive.svg)](https://david-dm.org/ExperianDataQuality/GlobalIntuitive)
 [![Dependency Status](https://david-dm.org/ExperianDataQuality/GlobalIntuitive/dev-status.svg)](https://david-dm.org/ExperianDataQuality/GlobalIntuitive#info=devDependencies)
@@ -9,7 +13,6 @@ This repo contains sample code for integrating with Experian Data Quality's Glob
 
 Check out the [demo](https://www.edq.com/uk/products/address-validation/#interactive-demo) on our website.
 
-[![](https://codescene.io/projects/3466/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3466/jobs/latest-successful/results)
 
 ## Usage
 
